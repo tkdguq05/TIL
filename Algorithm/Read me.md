@@ -1,1 +1,1 @@
-# Algorithm practice from the book "Grokking Algorithms"
+# Algorithm practices from the book "Grokking Algorithms"
