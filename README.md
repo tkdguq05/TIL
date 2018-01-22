@@ -1,3 +1,4 @@
 # TIL
-Today I Learned, Review and Algorithm . 
-also, coding practice
+Today I Learned, Review and Algorithm.
+
+Also, coding practice
