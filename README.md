@@ -1,4 +1,5 @@
-# TIL
-Today I Learned, Reviews, Algorithm, and Neural Networks.
-
-Also, coding practice
+# TIL, Today I Learned
+- Algorithms
+- python
+- Neural Networks
+- Linear Algebra
