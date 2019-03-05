@@ -3,5 +3,5 @@
 - python
 - Neural Networks
 - Linear Algebra
-- Fastcampus DSES Staff Assistant, Lecture Nontes
+- Fastcampus DSES Staff Assistant, Lecture Notes
 - Datascientist Interview Questions
