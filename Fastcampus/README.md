@@ -9,5 +9,7 @@ ___
   * AWS
   * Web Crawling
 * 2학기
+  * Small Project __LSA__
   * 선형대수
   * Numpy
+
