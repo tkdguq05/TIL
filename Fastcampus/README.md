@@ -12,4 +12,7 @@ ___
   * Small Project __LSA__
   * 선형대수
   * Numpy
+  * Statistics
+  * Naive Bayes, Gaussian Naive Bayes
+  * Linear Regression
 
