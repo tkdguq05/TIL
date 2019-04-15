@@ -4,4 +4,5 @@
 - Neural Networks
 - Linear Algebra
 - Fastcampus DSES Staff Assistant, Lecture Notes
+- Kaggling
 - Datascientist Interview Questions
