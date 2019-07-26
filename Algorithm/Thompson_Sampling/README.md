@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/tkdguq05/Algorithm / Thompson_Sampling.svg)](http://hits.dwyl.io/tkdguq05/Algorithm / Thompson_Sampling)
+[![HitCount](http://hits.dwyl.io/tkdguq05/TIL/Algorithm / Thompson_Sampling.svg)](http://hits.dwyl.io/tkdguq05/TIL/Algorithm / Thompson_Sampling)
 
 # This Repository is
  - Programming Thompson Sampling Algorithm
