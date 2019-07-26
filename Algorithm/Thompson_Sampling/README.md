@@ -1,10 +1,11 @@
 [![HitCount](http://hits.dwyl.io/tkdguq05/Algorithm / Thompson_Sampling.svg)](http://hits.dwyl.io/tkdguq05/Algorithm / Thompson_Sampling)
 
-# Thompson Sampling
+# This Repository is
  - Programming Thompson Sampling Algorithm
  - Calculating Bayesian Probability
  
-### Thompson Sampling
+ 
+## Thompson Sampling
 - 50% - Exploration
 - 50% - Exploitation
 
@@ -22,4 +23,4 @@ If you want to know more about Beta distribution here is an article I found extr
 4) Repeat 2-3.
 
 
-<a href="https://www.kaggle.com/ruslankl/how-to-deal-with-multi-armed-bandit-problem">Main Source From</a>.
+<a href="https://www.kaggle.com/ruslankl/how-to-deal-with-multi-armed-bandit-problem">Main Source From Kaggle</a>
