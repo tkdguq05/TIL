@@ -10,7 +10,7 @@
 - Datascientist Interview Questions
 - 데이터 분석을 위한 SQL Recipe
 
-___
+
 ## 작성 규칙
 - 언어나 기술명으로 폴더를 만든다. (root에 문서를 만들지 않는다.)
 - 파일명은 영어로
