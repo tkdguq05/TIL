@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/tkdguq05/TIL.svg)](http://hits.dwyl.io/tkdguq05/TIL/README.md)
+[![HitCount](http://hits.dwyl.io/tkdguq05/TIL.svg)](http://hits.dwyl.io/tkdguq05/TIL)
 
 # TIL, Today I Learned
 - Algorithms
