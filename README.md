@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.io/tkdguq05/TIL.svg)](http://hits.dwyl.io/tkdguq05/TIL)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftkdguq05%2FTIL)](https://hits.seeyoufarm.com)
 
 # TIL, Today I Learned
 - Algorithms
